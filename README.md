@@ -121,6 +121,19 @@ Suggested tags for GitHub topics, documentation, and cross-platform sharing:
 `#ClimateAcceleration` `#SynchronousSinkLoss`  
 `#MicrobialCycle` `#PlanetaryRestoration` `#SustainableCivilization`
 
+---
+
+## Narrative Entry Point
+
+> *Speculative fiction — not a scientific claim or engineering specification. CO₂ reduction remains necessary and is not contradicted by this work.*
+
+The ecological collapse described in this index — microbial die-off, carbon fixation failure, biological system breakdown — is the premise of the SF narrative:
+
+**[CO₂ Is Not the Only Villain — A Climate SF Narrative](https://github.com/InchaComisho/CO2-Is-Not-The-Only-Villain-A-Climate-SF-Narrative)**
+
+Episodes 2–3 fictionalise what this index diagnoses as the invisible, accelerating collapse of Earth's life-support chemistry, framing Direct Planetary Cooling as one proposed response under consideration.
+
+---
 
 ■関連リンク
 
