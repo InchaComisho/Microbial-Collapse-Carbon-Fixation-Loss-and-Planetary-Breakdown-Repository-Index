@@ -109,6 +109,15 @@ In other words:
 
 For a full picture, this index should be read together with the **Direct Planetary Cooling – Repository Index**.
 
+
+---
+
+## Master Knowledge Portal
+
+For the full repository map and knowledge-system navigation, see:
+
+- [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+
 ---
 
 ## Related Repositories
