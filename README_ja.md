@@ -386,3 +386,12 @@ https://github.com/InchaComisho/CO2-Is-Not-The-Only-Villain-A-Climate-SF-Narrati
 #炭素固定源回復  
 #自然補完科学  
 #地球直接冷却
+
+---
+
+## ライセンス
+
+CC BY 4.0
+
+本記事は、Creative Commons Attribution 4.0 International License（CC BY 4.0）で公開する。  
+著者表示を行う限り、共有、転載、翻訳、改変、再利用を許可する。
