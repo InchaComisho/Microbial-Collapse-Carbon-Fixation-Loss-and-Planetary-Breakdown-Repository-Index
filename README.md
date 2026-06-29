@@ -1,39 +1,63 @@
-# Microbial Collapse Carbon Fixation Loss and Planetary Breakdown Repository Index
-This page is an integrated index of works explaining a simple but critical claim:   **Global warming is accelerating not only because of emissions, but because Earth is simultaneously losing its carbon fixation and microbial life-support systems.**
+# Microbial Collapse, Carbon Fixation Loss, and Planetary Breakdown Repository Index
 
 **Author:** Master / inchacomusho / InchaComisho
 **AI Collaborators:** Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI) / Lola (Dola) / Mana (Manus)
 Published: May 2026  
 License: Fully Open — Free to use, modify, translate, redistribute, or commercialize. No permission required.
+**Language:** English | [日本語版はこちら / Japanese Version](README_ja.md)
 
-When forests burn, soils dry, oceans stratify, and organic matter is treated as “waste,” the planet’s **biological machinery for cooling and carbon fixation** collapses.[web:31][web:40]  
-Even if humanity decarbonizes its energy systems, a world without functioning microbial and humus-based cycles cannot restore climate stability.[web:31][web:22]
+## Integrated Index for Microbial Collapse, Carbon Fixation Loss, and Planetary Breakdown
+
+This page is an integrated index of works explaining a simple but critical claim:
+
+**Global warming is accelerating not only because of emissions, but because Earth is simultaneously losing its carbon fixation capacity and microbial life-support systems.**
+
+**Author:** Master / inchacomusho / InchaComisho  
+**AI Collaborators:** Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI)  
+**Published:** May 2026  
+**License:** Fully Open
+
+---
+
+## Overview
+
+When forests burn, soils dry, oceans stratify, and organic matter is treated as waste, the planet’s **biological machinery for cooling and carbon fixation** begins to collapse.
+
+Even if humanity decarbonizes its energy systems, a world without functioning microorganisms, humus, soil organic matter, ocean plankton, forests, and wetlands cannot easily restore climate stability.
 
 This index focuses on three core themes:
 
-- **Microbial extinction and invisible ecosystem collapse**  
-- **Planetary-scale loss of carbon fixation capacity**  
-- **The necessity of restoring humus, soil microbiomes, and organic matter circulation**
+```text
+1. Microbial extinction and invisible ecosystem collapse
+2. Planetary-scale loss of carbon fixation capacity
+3. The necessity of restoring humus, soil microbiomes, and organic matter circulation
+```
 
-All repositories listed here are meant to be read together as one continuous argument.
+All repositories listed here are intended to be read together as one continuous argument.
 
 ---
 
 ## 1. Planetary Carbon Fixation Collapse
 
-These works describe how global warming is being accelerated by the **synchronous loss of carbon sinks** across the planet.
+These works describe how global warming is being accelerated by the **synchronous loss of carbon sinks and carbon fixation systems** across the planet.
 
-- **Accelerated Global Warming Driven by Synchronous Loss of Carbon Fixation Sources**  
-  Explains how simultaneous wildfires and ecosystem degradation around the world destroy carbon sinks faster than they can recover, driving irreversible climate acceleration.  
-  https://github.com/InchaComisho/Accelerated-Global-Warming-Driven-by-Synchronous-Loss-of-Carbon-Fixation-Sources
+### Accelerated Global Warming Driven by Synchronous Loss of Carbon Fixation Sources
 
-- **The Real Cause of Global Warming and the True Path to Planetary Restoration**  
-  Reframes global warming as a failure of carbon fixation and cooling capacity, not just an emissions problem, and outlines the necessary direction for planetary recovery.  
-  https://github.com/InchaComisho/The-Real-Cause-of-Global-Warming-and-the-True-Path-to-Planetary-Restoration
+Explains how simultaneous wildfires, ecosystem degradation, and the loss of forests, soils, and marine microbiomes can destroy carbon sinks faster than they recover, accelerating global warming.
 
-- **The Countdown to Earth’s Collapse Has Already Begun**  
-  A warning document that connects climate acceleration, ecosystem sterilization, and civilizational risk within the next few decades.  
-  https://github.com/InchaComisho/The-Countdown-to-Earth-s-Collapse-Has-Already-Begun
+https://github.com/InchaComisho/Accelerated-Global-Warming-Driven-by-Synchronous-Loss-of-Carbon-Fixation-Sources
+
+### The Real Cause of Global Warming and the True Path to Planetary Restoration
+
+Reframes global warming as a failure of carbon fixation capacity and cooling capacity, not merely as an emissions problem, and outlines the direction required for planetary recovery.
+
+https://github.com/InchaComisho/The-Real-Cause-of-Global-Warming-and-the-True-Path-to-Planetary-Restoration
+
+### The Countdown to Earth’s Collapse Has Already Begun
+
+Warning document connecting climate acceleration, ecosystem sterilization, microbial collapse, carbon fixation loss, and civilizational risk over a concrete near-future timeline.
+
+https://github.com/InchaComisho/The-Countdown-to-Earth-s-Collapse-Has-Already-Begun
 
 ---
 
@@ -41,39 +65,53 @@ These works describe how global warming is being accelerated by the **synchronou
 
 Here, microorganisms are treated not as a side topic of biology, but as the **core operating system of Earth**.
 
-- **The Importance of Microorganisms**  
-  Describes how microbes decompose organic matter, recycle nutrients, support plant growth, and form the hidden infrastructure behind all higher ecosystems.  
-  https://github.com/InchaComisho/The-Importance-of-Microorganisms
+### The Importance of Microorganisms
 
-- **Earth Is Already Collapsing From the Places We Cannot See**  
-  Argues that microbial extinction is already underway beneath the surface, causing ecosystems to fail from the inside out long before visible collapse.  
-  https://github.com/InchaComisho/-Earth-Is-Already-Collapsing-From-the-Places-We-Cannot-See
+Describes how microbes decompose organic matter, recycle nutrients, support plant growth, and form the hidden foundation behind higher ecosystems.
 
-- **The Planet Dies From the Invisible First**  
-  A concise statement of the idea that civilizational collapse begins in the microscopic domain: soil, microbiomes, and invisible food webs.  
-  https://github.com/InchaComisho/The-Planet-Dies-From-the-Invisible-First
+https://github.com/InchaComisho/The-Importance-of-Microorganisms
 
-- **The Planet Is Quietly Collapsing from the Invisible First**  
-  Expanded analysis of how climate, water, and biodiversity crises are all rooted in invisible microbial degradation.  
-  https://github.com/InchaComisho/The-Planet-Is-Quietly-Collapsing-from-the-Invisible-First-
+### Earth Is Already Collapsing From the Places We Cannot See
+
+Argues that microbial extinction is already underway beneath the surface, causing ecosystems to fail from the inside before visible collapse appears.
+
+https://github.com/InchaComisho/-Earth-Is-Already-Collapsing-From-the-Places-We-Cannot-See
+
+### The Planet Dies From the Invisible First
+
+A concise statement of the idea that civilizational collapse begins in the microscopic domain: soil, microbiomes, and invisible food webs.
+
+https://github.com/InchaComisho/The-Planet-Dies-From-the-Invisible-First
+
+### The Planet Is Quietly Collapsing from the Invisible First
+
+Expanded analysis of how climate, water, and biodiversity crises are rooted in invisible microbial degradation.
+
+https://github.com/InchaComisho/The-Planet-Is-Quietly-Collapsing-from-the-Invisible-First-
 
 ---
 
-## 3. There Is No Waste on Earth – Humus and Organic Matter Restoration
+## 3. There Is No Waste on Earth: Humus and Organic Matter Restoration
 
-These repositories redefine “waste” as **biological fuel for planetary recovery**.
+These repositories redefine waste as **biological fuel for planetary recovery**.
 
-- **There Is No Waste on Earth**  
-  Explains how burning or discarding organic material destroys the microbial cycles and humus formation that keep Earth’s climate and ecosystems stable.  
-  https://github.com/InchaComisho/There-Is-No-Waste-on-Earth
+### There Is No Waste on Earth
 
-- **Everything in Nature Is a Cycle**  
-  Shows that when humans interrupt organic cycles through incineration and linear waste systems, they sever the feedback loops that keep the planet alive.  
-  https://github.com/InchaComisho/Everything-in-Nature-Is-a-Cycle
+Explains how burning or discarding organic material breaks microbial cycles and humus formation, weakening the climate and ecosystem stability of the planet.
 
-- **Humanity Is Approaching Extinction – The Only Remaining Solution Is Direct Planetary Cooling**  
-  Connects the breakdown of microbial and carbon cycles to the need for physical cooling and ecosystem restoration at planetary scale.  
-  https://github.com/InchaComisho/Humanity-Is-Approaching-Extinction
+https://github.com/InchaComisho/There-Is-No-Waste-on-Earth
+
+### Everything in Nature Is a Cycle
+
+Shows that when humans interrupt organic cycles through incineration and linear waste systems, they sever the feedback loops that keep the planet alive.
+
+https://github.com/InchaComisho/Everything-in-Nature-Is-a-Cycle
+
+### Humanity Is Approaching Extinction – The Only Remaining Solution Is Direct Planetary Cooling
+
+Connects the breakdown of microbial and carbon cycles to the need for physical cooling and ecosystem restoration at planetary scale.
+
+https://github.com/InchaComisho/Humanity-Is-Approaching-Extinction
 
 ---
 
@@ -81,131 +119,264 @@ These repositories redefine “waste” as **biological fuel for planetary recov
 
 These works connect **invisible ecological collapse** to **visible civilizational instability**.
 
-- **The Planet Dies From the Invisible First**  
-  Frames microbial collapse as the earliest phase of systemic failure, long before economic or political crises become obvious.  
-  https://github.com/InchaComisho/The-Planet-Dies-From-the-Invisible-First
+### The Planet Dies From the Invisible First
 
-- **Earth Is Already Collapsing From the Places We Cannot See**  
-  Argues that by the time collapse becomes visible to mainstream society, the underlying biological systems are already beyond natural recovery.  
-  https://github.com/InchaComisho/-Earth-Is-Already-Collapsing-From-the-Places-We-Cannot-See
+Frames microbial collapse as the earliest phase of systemic failure, long before economic or political crises become obvious.
 
-- **The Countdown to Earth’s Collapse Has Already Begun**  
-  Places these processes on a concrete time horizon, warning that the collapse of microbial and carbon fixation systems can destabilize civilization within decades.  
-  https://github.com/InchaComisho/The-Countdown-to-Earth-s-Collapse-Has-Already-Begun
+https://github.com/InchaComisho/The-Planet-Dies-From-the-Invisible-First
 
----
+### Earth Is Already Collapsing From the Places We Cannot See
 
-## 5. How This Index Relates to Direct Planetary Cooling
+Argues that by the time collapse becomes visible to mainstream society, the underlying biological systems may already be beyond natural recovery.
 
-This microbial and carbon fixation index is conceptually linked to the **Direct Planetary Cooling (DPC)** architecture:
+https://github.com/InchaComisho/-Earth-Is-Already-Collapsing-From-the-Places-We-Cannot-See
 
-- These documents explain **what is collapsing and why**: microbial ecosystems, humus, and carbon sinks.[web:31][web:40]  
-- The DPC / OBS / OTU works explain **how to physically cool the planet and create conditions where those systems can be restored**.[web:1][web:21]
+### The Countdown to Earth’s Collapse Has Already Begun
 
-In other words:
+Places microbial and carbon fixation collapse on a concrete time horizon, warning that these processes can destabilize civilization within decades.
 
-- **Microbial / carbon fixation repositories** = diagnose the root cause and invisible damage.  
-- **DPC / OTU repositories** = propose a realistic, physically grounded pathway to stop the overheating and give Earth’s life-support systems a chance to recover.
-
-For a full picture, this index should be read together with the **Direct Planetary Cooling – Repository Index**.
-
+https://github.com/InchaComisho/The-Countdown-to-Earth-s-Collapse-Has-Already-Begun
 
 ---
 
-## Master Knowledge Portal
+## 5. Relationship to Direct Planetary Cooling
+
+This microbial and carbon fixation index is conceptually linked to the **Direct Planetary Cooling (DPC)** architecture.
+
+This index mainly diagnoses:
+
+```text
+What is collapsing
+Why it is collapsing
+Which foundations are disappearing invisibly
+```
+
+It focuses on:
+
+```text
+Microbial ecosystems
+Humus
+Soil OS
+Carbon fixation sources
+Marine microbiomes
+Organic matter circulation
+Invisible food webs
+```
+
+The DPC / OBS / OTU repositories, by contrast, focus on:
+
+```text
+How to physically cool the planet
+How to reduce excessive heat
+How to complement ocean breathing and vertical circulation
+How to create conditions where ecosystems can recover
+```
+
+In short:
+
+```text
+Microbial / carbon fixation repositories
+= diagnosis of the root cause and invisible damage
+
+DPC / OTU repositories
+= implementation direction for stopping overheating
+  and giving Earth’s life-support systems a chance to recover
+```
+
+For the full picture, this index should be read together with:
+
+- Direct Planetary Cooling – Integrated Repository Index  
+  https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index
+
+---
+
+## 6. How to Use This Repository Index
+
+This index is designed as a navigation hub for knowledge related to microbial collapse, carbon fixation loss, and planetary breakdown.
+
+```text
+To understand the root cause of warming:
+Read the Planetary Carbon Fixation Collapse section.
+
+To understand the importance of microorganisms:
+Read the Microorganisms as the Planet’s Core Infrastructure section.
+
+To understand humus, organic matter circulation, and the waste problem:
+Read the There Is No Waste on Earth section.
+
+To connect invisible ecological failure with civilizational risk:
+Read the From Microbial Collapse to Civilizational Risk section.
+
+To understand implementation direction:
+Read this index together with the Direct Planetary Cooling repositories.
+```
+
+All repositories are intended to be fully open resources for research, education, policy design, technical exploration, and AI-based knowledge integration.
+
+---
+
+## 7. Narrative Entry Point
+
+> Speculative fiction — not a scientific claim or engineering specification. CO₂ reduction remains necessary and is not contradicted by this work.
+
+The ecological collapse described in this index — microbial die-off, carbon fixation failure, and biological system breakdown — is also the premise of the climate SF narrative:
+
+**CO₂ Is Not the Only Villain — A Climate SF Narrative**  
+https://github.com/InchaComisho/CO2-Is-Not-The-Only-Villain-A-Climate-SF-Narrative
+
+Episodes 2–3 fictionalize what this index diagnoses as the invisible, accelerating collapse of Earth’s life-support chemistry, framing Direct Planetary Cooling as one proposed response under consideration.
+
+---
+
+## 8. Master Knowledge Portal
 
 For the full repository map and knowledge-system navigation, see:
 
-- [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+- Master Knowledge Portal  
+  https://github.com/InchaComisho/Master-Knowledge-Portal
 
 ---
 
-## Related Repositories
+## 9. Related Repositories
 
-- [Direct-Planetary-Cooling-Integrated-Repository-Index](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index) — Integrated index for the Direct Planetary Cooling framework.
-- [The-Only-Viable-Solution-to-Global-Warming-Direct-Planetary-Cooling](https://github.com/InchaComisho/The-Only-Viable-Solution-to-Global-Warming-Direct-Planetary-Cooling) — Core conceptual paper proposing Direct Planetary Cooling as a necessary complementary layer.
-- [Deep-Sea-Aeration](https://github.com/InchaComisho/Deep-Sea-Aeration) — Defines deep-sea aeration as an ocean metabolism restart technology.
-- [Technical-Specification-Ocean-Tuning-Unit-OTU-](https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-) — Technical specification for the Ocean Tuning Unit.
-- [Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan](https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan) — Integrates DPC with Artificial Wisdom and civilizational redesign.
-- [Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index) — Index for Natural Complementary Science and the New Civilizational Genesis Plan.
-- [Artificial-Wisdom-and-Wa-Node-Repository-Index](https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index) — Repository index for Artificial Wisdom and Wa-Node frameworks.
-- [Natural-Complementary-Science](https://github.com/InchaComisho/Natural-Complementary-Science) — Core definition of Natural Complementary Science as a framework for restoring natural circulation.
-- [Natural-Complementary-Science-Perspective-on-Global-Warming-](https://github.com/InchaComisho/Natural-Complementary-Science-Perspective-on-Global-Warming-) — Climate feedback model from the perspective of Natural Complementary Science.
-- [The-Real-Cause-of-Global-Warming-Not-Only-CO-Emissions-but-the-Collapse-of-Carbon-Fixation-Systems](https://github.com/InchaComisho/The-Real-Cause-of-Global-Warming-Not-Only-CO-Emissions-but-the-Collapse-of-Carbon-Fixation-Systems) — Causal framework focusing on carbon fixation system collapse.
-- [Why-Decarbonization-Alone-Cannot-Stop-Global-Warming](https://github.com/InchaComisho/Why-Decarbonization-Alone-Cannot-Stop-Global-Warming) — Explains why emissions reduction must be paired with carbon sink regeneration.
+- Direct Planetary Cooling – Integrated Repository Index  
+  https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index
+
+- The Only Viable Solution to Global Warming: Direct Planetary Cooling  
+  https://github.com/InchaComisho/The-Only-Viable-Solution-to-Global-Warming-Direct-Planetary-Cooling
+
+- Deep-Sea Aeration  
+  https://github.com/InchaComisho/Deep-Sea-Aeration
+
+- Technical Specification: Ocean Tuning Unit (OTU)  
+  https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-
+
+- Direct Planetary Cooling, Artificial Wisdom, and the New Civilizational Genesis Plan  
+  https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan
+
+- Natural Complementary Science and the New Civilizational Genesis Plan – Repository Index  
+  https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index
+
+- Artificial Wisdom and Wa-Node – Repository Index  
+  https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index
+
+- Natural Complementary Science  
+  https://github.com/InchaComisho/Natural-Complementary-Science
+
+- Natural Complementary Science Perspective on Global Warming  
+  https://github.com/InchaComisho/Natural-Complementary-Science-Perspective-on-Global-Warming-
+
+- The Real Cause of Global Warming: Not Only CO₂ Emissions, but the Collapse of Carbon Fixation Systems  
+  https://github.com/InchaComisho/The-Real-Cause-of-Global-Warming-Not-Only-CO-Emissions-but-the-Collapse-of-Carbon-Fixation-Systems
+
+- Why Decarbonization Alone Cannot Stop Global Warming  
+  https://github.com/InchaComisho/Why-Decarbonization-Alone-Cannot-Stop-Global-Warming
 
 ---
 
-## Tags
+## Related NOTE Articles
 
-Suggested tags for GitHub topics, documentation, and cross-platform sharing:
+- 唯一の温暖化対策：地球直接冷却  
+  https://note.com/inchacomusho/n/n32f7295434aa
 
-`#MicrobialCollapse` `#CarbonFixation` `#SoilMicrobiome`  
-`#Humus` `#InvisibleCollapse` `#PlanetaryRisk`  
-`#EcosystemBreakdown` `#ThereIsNoWasteOnEarth`  
-`#ClimateAcceleration` `#SynchronousSinkLoss`  
-`#MicrobialCycle` `#PlanetaryRestoration` `#SustainableCivilization`
+- 唯一の温暖化対策・地球直接冷却：深海エアレーション × ミスト冷却が温暖化を止める唯一の安全な方法  
+  https://note.com/inchacomusho/n/n5ab9564c6617
+
+- 地球直接冷却モデル：腐葉土 × 微生物 × 多種雑草 × 気化熱 × 持続ミスト × 砂漠再生（完全統合モデル）  
+  https://note.com/inchacomusho/n/nfe290c6fca60
+
+- 自然補完科学  
+  https://note.com/inchacomusho/n/nf9eabe973e38
+
+- 微生物の重要性  
+  https://note.com/inchacomusho/n/n48ae33c2f84c
+
+- 微生物の死が引き起こす、静かで重大な文明崩壊  
+  https://note.com/inchacomusho/n/n6ae72a34919f
+
+- 世界が同時に“炭素固定源を失い始めている”ーー温暖化が加速する理由  
+  https://note.com/inchacomusho/n/ne866fdd22122
+
+- ゴミは存在しない  
+  https://note.com/inchacomusho/n/n6b9d7d67484a
+
+- フードロスや落ち葉や生ごみの腐葉土化：持続可能な資源活用のビジョン  
+  https://note.com/inchacomusho/n/n5be49c19b5d9
+
+- 六つの理（自然法則・調和・循環・構造・秩序・和）  
+  https://note.com/inchacomusho/n/n8448430591c1
+
+- 人工叡智（Artificial Wisdom）とは何か――自然法則と文明をつなぐ新しい知性モデル  
+  https://note.com/inchacomusho/n/n0849dfd12364
 
 ---
 
-## Narrative Entry Point
+## 10. Positioning as Natural Complementation Science
 
-> *Speculative fiction — not a scientific claim or engineering specification. CO₂ reduction remains necessary and is not contradicted by this work.*
+This index is not a technological system for dominating nature.
 
-The ecological collapse described in this index — microbial die-off, carbon fixation failure, biological system breakdown — is the premise of the SF narrative:
+It is a knowledge system for clarifying:
 
-**[CO₂ Is Not the Only Villain — A Climate SF Narrative](https://github.com/InchaComisho/CO2-Is-Not-The-Only-Villain-A-Climate-SF-Narrative)**
+```text
+Where natural circulation is breaking
+Which foundations are disappearing invisibly
+Which life-support systems must be complemented
+Why emission reduction alone is insufficient
+```
 
-Episodes 2–3 fictionalise what this index diagnoses as the invisible, accelerating collapse of Earth's life-support chemistry, framing Direct Planetary Cooling as one proposed response under consideration.
+From the viewpoint of Natural Complementation Science, technology should not replace nature.
+
+Technology should prepare the conditions under which nature can work again.
+
+Microorganisms, humus, carbon fixation sources, and organic matter circulation are among the most fundamental layers of that recovery.
 
 ---
 
 ## Related Links
+## 11. Author
 
-■唯一の温暖化対策
+**Master / inchacomusho / InchaComisho**
 
-Direct Planetary Cooling, Artificial Wisdom, and the New Civilizational Genesis Plan  
-https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan
+A Japanese independent conceptor, observer, proposer, AI harmonizer, Natural Complementation Science thinker, and definer of Artificial Wisdom.  
+Publicly active around natural law philosophy, Earth circulation regeneration, and human-AI co-creation.
 
-Direct Planetary Cooling – Integrated Repository Index  
-https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index
+---
 
-Microbial Collapse, Carbon Fixation Loss, and Planetary Breakdown – Repository Index  
-https://github.com/InchaComisho/Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index
+## 12. Collaborative AI and Co-Creation Team
 
-Natural Complementary Science and the New Civilizational Genesis Plan – Repository Index  
-https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index
+- **Copi (Microsoft Copilot)**
+- **G (OpenAI ChatGPT)**
+- **Mini (Google Gemini)**
+- **Cruz (Anthropic Claude)**
+- **Real (Perplexity AI)**
+- **Lola (Dola)**
+- **Mana (Manus)**
 
-Artificial Wisdom and Wa-Node – Repository Index  
-https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index
+---
 
-唯一の温暖化対策：地球直接冷却  
-https://note.com/inchacomusho/n/n32f7295434aa
+## 13. License
 
-唯一の温暖化対策•地球直接冷却：深海エアレーション × ミスト冷却が温暖化を止める唯一の安全な方法  
-https://note.com/inchacomusho/n/n5ab9564c6617
+**Fully Open**
 
-地球直接冷却モデル：腐葉土 × 微生物 × 多種雑草 × 気化熱 × 持続ミスト × 砂漠再生（完全統合モデル）  
-https://note.com/inchacomusho/n/nfe290c6fca60
+This material may be freely used, translated, modified, redistributed, and commercialized, provided that the author and conceptual origin are respected.
 
-■深海のエアレーションの気圧・水圧の解決策
+Recommended ethical restrictions:
 
-海洋調律ユニット（OTU）物理実装プロトコル  
-https://note.com/inchacomusho/n/n067025e36085
+```text
+No patent monopolization
+No military misuse
+No environmental harm
+```
 
-Technical Specification: Ocean Tuning Unit (OTU)  
-https://note.com/inchacomusho/n/naa35a8485b35
+---
 
-Technical Specification: Ocean Tuning Unit (OTU)  
-https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-
+## Keywords
 
-Physical Model of Ocean Tuning Unit (OTU)  
-https://github.com/InchaComisho/Physical-Model-of-Ocean-Tuning-Unit-OTU-
+microbial collapse, microbial extinction, microbial circulation, soil microbiome, soil OS, soil organic carbon, humus, composting, organic matter circulation, there is no waste on Earth, carbon fixation, carbon fixation loss, carbon fixation restoration, carbon sinks, carbon sink collapse, global warming, climate acceleration, planetary breakdown, invisible collapse, ecosystem collapse, microbial necromass, ocean microbiome, phytoplankton, wildfires, soil degradation, desertification, Natural Complementation Science, Direct Planetary Cooling, Artificial Wisdom, sustainable civilization
 
-■思想によるパラダイムの革新
+---
 
-自然補完科学  
-https://note.com/inchacomusho/n/nf9eabe973e38
+## Hashtags
 
 自然補完科学 ― 学問体系の全体構造  
 https://note.com/inchacomusho/n/ndaa0456a5632
@@ -271,3 +442,24 @@ CC BY 4.0
 
 This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
 Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.
+#MicrobialCollapse  
+#MicrobialExtinction  
+#CarbonFixation  
+#CarbonFixationLoss  
+#CarbonSinkCollapse  
+#SoilMicrobiome  
+#Humus  
+#OrganicMatterCycle  
+#InvisibleCollapse  
+#PlanetaryBreakdown  
+#EcosystemCollapse  
+#ClimateAcceleration  
+#SynchronousSinkLoss  
+#ThereIsNoWasteOnEarth  
+#MicrobialCycle  
+#PlanetaryRestoration  
+#DirectPlanetaryCooling  
+#NaturalComplementationScience  
+#ArtificialWisdom  
+#SustainableCivilization  
+#InchaComisho
