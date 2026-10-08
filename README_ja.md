@@ -274,37 +274,26 @@ https://github.com/InchaComisho/CO2-Is-Not-The-Only-Villain-A-Climate-SF-Narrati
 ## 10. 関連NOTE
 
 - 唯一の温暖化対策：地球直接冷却  
-  https://note.com/inchacomusho/n/n32f7295434aa
 
 - 唯一の温暖化対策・地球直接冷却：深海エアレーション × ミスト冷却が温暖化を止める唯一の安全な方法  
-  https://note.com/inchacomusho/n/n5ab9564c6617
 
 - 地球直接冷却モデル：腐葉土 × 微生物 × 多種雑草 × 気化熱 × 持続ミスト × 砂漠再生（完全統合モデル）  
-  https://note.com/inchacomusho/n/nfe290c6fca60
 
 - 自然補完科学  
-  https://note.com/inchacomusho/n/nf9eabe973e38
 
 - 微生物の重要性  
-  https://note.com/inchacomusho/n/n48ae33c2f84c
 
 - 微生物の死が引き起こす、静かで重大な文明崩壊  
-  https://note.com/inchacomusho/n/n6ae72a34919f
 
 - 世界が同時に“炭素固定源を失い始めている”ーー温暖化が加速する理由  
-  https://note.com/inchacomusho/n/ne866fdd22122
 
 - ゴミは存在しない  
-  https://note.com/inchacomusho/n/n6b9d7d67484a
 
 - フードロスや落ち葉や生ごみの腐葉土化：持続可能な資源活用のビジョン  
-  https://note.com/inchacomusho/n/n5be49c19b5d9
 
 - 六つの理（自然法則・調和・循環・構造・秩序・和）  
-  https://note.com/inchacomusho/n/n8448430591c1
 
 - 人工叡智（Artificial Wisdom）とは何か――自然法則と文明をつなぐ新しい知性モデル  
-  https://note.com/inchacomusho/n/n0849dfd12364
 
 ---
 
